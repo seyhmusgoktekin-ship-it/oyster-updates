@@ -3,6 +3,20 @@
     <channel>
         <title>Oyster</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Sat, 31 Oct 2026 06:13:10 +0300</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster-1.2.html</sparkle:releaseNotesLink>
+            <enclosure url="https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster-1.2.dmg" length="6020182" type="application/octet-stream" sparkle:edSignature="+2Lhdu4AaOHHu1P+uM7v43SdTBKyBt0VzPBRXdGWtKbHrqYsHDF/MtdxuSfBPYHledMXSFhuBZW4uUCw2208DQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster3-2.delta" sparkle:deltaFrom="2" length="2743882" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="tb05WlpE4NuMzyhb87diwO1t/Aj+HAgQ9YVcIYDEJniTk6pYjyk50mP1qUK2dsB065aaOhkb355rpjHrcJU+Bg=="/>
+                <enclosure url="https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster3-1.delta" sparkle:deltaFrom="1" length="2992574" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="fGyOWWiVuupwJRSf9FQ5rDisrXECxFrPA8xiJFWFwZtX/bBjansWXEz9odDLqQcTGAt6hcuTqvtR57Lj0jjrAg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Thu, 29 Oct 2026 21:36:14 +0300</pubDate>
             <sparkle:version>2</sparkle:version>
