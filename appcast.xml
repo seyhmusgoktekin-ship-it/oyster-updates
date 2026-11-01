@@ -3,6 +3,20 @@
     <channel>
         <title>Oyster</title>
         <item>
+            <title>1.2.1</title>
+            <pubDate>Sun, 01 Nov 2026 17:53:43 +0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster-1.2.1.html</sparkle:releaseNotesLink>
+            <enclosure url="https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster-1.2.1.dmg" length="6828615" type="application/octet-stream" sparkle:edSignature="gNoehNqDIu11giqd3kL0wFFOJkrEpcll5AiTBGXguqwwGoMAc6apA0Hp6mHWYzx+bg3sypjGmtmzx6MoqG18DA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster4-3.delta" sparkle:deltaFrom="3" length="568822" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="7x1WLUhVuhOf+6mtNAl3ZVlqq1YSp7CIzt9vganNDU4/A8V6oNBywVFyzEDUm8Jd549jiDHk+6mYcj+Pw8VnDg=="/>
+                <enclosure url="https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster4-2.delta" sparkle:deltaFrom="2" length="3238442" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="61IZkqHJYxf0gktmyDXhdsmVcowbd8WQO9wiP4THawWHv3np6kPxLfFKcxY12cI1IiMtIIh2hJUtFkuF8NjHAg=="/>
+                <enclosure url="https://seyhmusgoktekin-ship-it.github.io/oyster-updates/Oyster4-1.delta" sparkle:deltaFrom="1" length="3507386" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="974464" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rV8uVMNAwZ91tSUFTx4HZJOemQn+G2fqtf/ekSnsm7ZpN7GM5LTnZ/uv7lcypLQOEUczKL3OSFbZToNVpIGiCg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.2</title>
             <pubDate>Sat, 31 Oct 2026 06:13:10 +0300</pubDate>
             <sparkle:version>3</sparkle:version>
